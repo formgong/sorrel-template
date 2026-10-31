@@ -52,6 +52,8 @@ Blocks fade up as they scroll into view. Without JavaScript everything is visibl
 
 **Sample content.** The shop name, staff, address, phone number (a drama-reserved 01632 number), reviews, the 4.9 score and the prices are examples. Replace them with your own before launch.
 
+The "Powered by Formgong" links point to `https://formgong.com/review-page/fk_your_access_key`, so the same find and replace covers them. Once your key is in, the first click from your published site makes your own public review page on Formgong, where clients read and leave reviews, and every later click opens it. Switch the page off in Formgong (Reviews → your site → Settings) or change those links.
+
 ## Українська
 
 Яскравий односторінковий сайт для незалежної аптеки з ботанічними малюнками. Аптека Sorrel, її працівники, адреса, телефон, відгуки й ціни вигадані.
@@ -81,3 +83,5 @@ Blocks fade up as they scroll into view. Without JavaScript everything is visibl
 **Приклади.** Назва, працівники, адреса, телефон, відгуки, оцінка 4.9 і ціни — це приклади, замініть їх своїми.
 
 MIT license.
+
+Посилання «Powered by Formgong» ведуть на `https://formgong.com/review-page/fk_your_access_key`, тож та сама заміна ключа оновить і їх. Коли ключ стоїть, перший перехід з вашого опублікованого сайту створює вашу публічну сторінку відгуків на Formgong, де клієнти читають і залишають відгуки; далі посилання відкриває її. Вимкнути сторінку можна у Formgong (Відгуки → ваш сайт → Налаштування) або змінити ці посилання.
