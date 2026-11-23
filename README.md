@@ -85,3 +85,7 @@ The "Powered by Formgong" links point to `https://formgong.com/review-page/fk_yo
 MIT license.
 
 Посилання «Powered by Formgong» ведуть на `https://formgong.com/review-page/fk_your_access_key`, тож та сама заміна ключа оновить і їх. Коли ключ стоїть, перший перехід з вашого опублікованого сайту створює вашу публічну сторінку відгуків на Formgong, де клієнти читають і залишають відгуки; далі посилання відкриває її. Вимкнути сторінку можна у Formgong (Відгуки → ваш сайт → Налаштування) або змінити ці посилання.
+
+## More free form tools
+
+- 14 contact form examples to copy: https://formgong.com/en/contact-form-examples/
